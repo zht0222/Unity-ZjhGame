@@ -1,0 +1,6 @@
+MyClient/.vs/
+MyClient/Library/
+MyClient/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+MyClient/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+MyClient/obj/
+MyServer/.vs/

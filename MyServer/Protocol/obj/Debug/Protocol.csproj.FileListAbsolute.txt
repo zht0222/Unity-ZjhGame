@@ -1,0 +1,14 @@
+D:\Unity\ZjhGameServer\MyServer\Protocol\bin\Debug\Protocol.dll
+D:\Unity\ZjhGameServer\MyServer\Protocol\bin\Debug\Protocol.pdb
+D:\Unity\ZjhGameServer\MyServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\Unity\ZjhGameServer\MyServer\Protocol\obj\Debug\Protocol.dll
+D:\Unity\ZjhGameServer\MyServer\Protocol\obj\Debug\Protocol.pdb
+D:\Unity\炸金花课程\Assets\Scripts\Protocol.dll
+D:\Unity\炸金花课程\Assets\Scripts\Protocol.pdb
+D:\Unity\ZjhGameServer\MyServer\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+D:\WENJIAN\ZjhGame\MyClient\Assets\Scripts\Protocol.dll
+D:\WENJIAN\ZjhGame\MyClient\Assets\Scripts\Protocol.pdb
+D:\WENJIAN\ZjhGame\MyServer\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+D:\WENJIAN\ZjhGame\MyServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\WENJIAN\ZjhGame\MyServer\Protocol\obj\Debug\Protocol.dll
+D:\WENJIAN\ZjhGame\MyServer\Protocol\obj\Debug\Protocol.pdb
